@@ -26,6 +26,6 @@ Let's learn and grow together through our SQL coding journey!
 
 ## Connect with Me
 
-If you'd like to connect with me or follow my progress on HackerRank, you can find my profile [here](https://www.hackerrank.com/your_username).
+If you'd like to connect with me or follow my progress on HackerRank, you can find my profile [here]([https://www.hackerrank.com/your_username](https://www.hackerrank.com/sandrosalasfilh1?hr_r=1)).
 
 Happy coding! 🚀
