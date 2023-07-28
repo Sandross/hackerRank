@@ -14,19 +14,8 @@ As pastas estão separadas de acordo com as modalidades do Hacker Rank.
   - **MySql**
   
   - **Typescript**
-
 </details>
 
-<details>
-  <summary>
-    <strong>🏅 Insígnias</strong>
-  </summary>
-  
-  - **MySql 🥇**
-  
-  - **Problem Solving 🥈**
-
-</details>
 
 <details>
   <summary>
