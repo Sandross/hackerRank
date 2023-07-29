@@ -8,7 +8,7 @@ Welcome to my HackerRank repository! This repository contains my solutions to va
 
 Here are some of the badges I've earned on HackerRank:
 
-[![HackerRank Badges](https://img.shields.io/badge/HackerRank-Badges-yellow)](https://www.hackerrank.com/sandrosalasfilh1/badges)
+[![HackerRank Badges](https://img.shields.io/badge/HackerRank-Badges-yellow)](https://www.hackerrank.com/sandrosalasfilh1?hr_r=1))
 
 These badges represent my achievements and activities on the platform. I'm proud of the progress I've made so far, and I'm continuously striving to improve my SQL skills through new challenges and competitions.
 
